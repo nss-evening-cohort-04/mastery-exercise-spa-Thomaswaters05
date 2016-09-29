@@ -1,0 +1,36 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "year": "2004",
+      "price": "10999",
+      "description": "Older on the year, but greater on the gas mileage. This one owner, mid sized truck is perfect for getting around without feeling the weight of gas on your pockets."
+    },
+     {
+      "id": "2",
+      "make": "Ford",
+      "model": "F150",
+      "year": "2006",
+      "price": "12500",
+      "description": "This is an immaculate 2006 Ford F-150. Gaurenteed to handle the heavier projects and holds a solid value."
+    },
+     {
+      "id": "3",
+      "make": "Honda",
+      "model": "Civic LX",
+      "year": "2009",
+      "price": "14599",
+      "description": "This 2009 Honda Civic will allow you to drive until the wheels fall off. Not only will you have wonderful gas mileage but you will also have a beautiful and reliable vehicle for years to come."
+    },
+     {
+      "id": "4",
+      "make": "Kia",
+      "model": "Sorento",
+      "year": "2011",
+      "price": "14299",
+      "description": "Newer year-wise and a great cost. This car is spotless."
+    },
+  ]
+}
