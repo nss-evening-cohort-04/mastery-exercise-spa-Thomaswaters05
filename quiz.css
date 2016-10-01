@@ -1,3 +1,38 @@
 body {
   background: skyblue;
 }
+
+img.wrapIt{
+  border: solid;
+  border-radius: 1em;
+  margin: 25px;
+}
+
+
+.cars {
+  border: 3px solid black;
+  margin: .5em;
+  padding: 4px;
+  display: inline-block;
+  width: 350px;
+
+}
+
+.cars:nth-child(even) {
+  background-color: lightgreen;
+}
+
+.cars:nth-child(odd) {
+  background-color: lightgray;
+}
+
+
+p {
+  font-family: times;
+  font-variant: small-caps;
+}
+
+.selected {
+  border: 4px dotted black;
+  background-color: blue !important;
+}

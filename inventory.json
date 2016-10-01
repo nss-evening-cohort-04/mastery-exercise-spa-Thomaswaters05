@@ -2,35 +2,57 @@
   "cars": [
     {
       "id": "1",
+      "pic": "img/rado1.jpeg",
       "make": "Chevrolet",
       "model": "Colorado",
       "year": "2004",
       "price": "10999",
-      "description": "Older on the year, but greater on the gas mileage. This one owner, mid sized truck is perfect for getting around without feeling the weight of gas on your pockets."
+      "description": "Older on the year, but greater on the gas mileage. This one owner, mid sized truck is perfect for getting around without paying a ton on gas. Perfect starter truck."
     },
      {
       "id": "2",
+      "pic": "img/f154.jpeg",
       "make": "Ford",
       "model": "F150",
       "year": "2006",
       "price": "12500",
-      "description": "This is an immaculate 2006 Ford F-150. Gaurenteed to handle the heavier projects and holds a solid value."
+      "description": "This is an immaculate 2006 Ford F-150. Gaurenteed to handle the heavier projects. If you want a reliable truck that will last..The F150 will be the perfect fit. Built Ford Tough."
     },
      {
       "id": "3",
+      "pic": "img/civic.jpeg",
       "make": "Honda",
       "model": "Civic LX",
       "year": "2009",
       "price": "14599",
-      "description": "This 2009 Honda Civic will allow you to drive until the wheels fall off. Not only will you have wonderful gas mileage but you will also have a beautiful and reliable vehicle for years to come."
+      "description": "This 2009 Honda Civic will allow you to drive until the wheels fall off. You will have wonderful gas mileage as well as a beautiful and reliable vehicle for years to come."
     },
      {
       "id": "4",
+      "pic": "img/kia.jpeg",
       "make": "Kia",
       "model": "Sorento",
       "year": "2011",
       "price": "14299",
-      "description": "Newer year-wise and a great cost. This car is spotless."
+      "description": "Newer year-wise and a great cost. This car is spotless, great gas mileage, and has a warranty that is well worth the money. This is a perfect mid-sized sedan for when you have kids or if you want to keep on travelling!"
     },
+    {
+      "id": "5",
+      "pic": "img/lincoln.jpeg",
+      "make": "Lincoln",
+      "model": "Town Car",
+      "year": "2009",
+      "price": "12199",
+      "description": "If you want the smoothest ride out of all of these options- Look no further. This is a bed on wheels. It will feel like you are driving on clouds. The leather interior and the style alone will satisfy all of your car needs."
+    },
+     {
+      "id": "6",
+      "pic": "img/challenger.jpeg",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year": "2012",
+      "price": "19200",
+      "description": "Want to go fast? This is the cream of the crop. 0-60 in .5ms. Yes, insane I know. But this car will blow your socks off and will feed your inner animal spirit. The interior is spotless and has had one owner. This will go quickly."
+    }
   ]
 }
