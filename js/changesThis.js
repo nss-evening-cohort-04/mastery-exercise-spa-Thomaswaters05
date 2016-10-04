@@ -1,13 +1,5 @@
 var CarLot = (function(changeMe) {
-  changeMe.noBorder = function() {
-    var poster = document.getElementsByClassName("cars");
-    for (var i = 0; i < poster.length; i++) {
-       poster[i].classList.remove("selected");
-     };
-  };
-  changeMe.borderIt = function(selected) {
-    changeMe.noBorder();
-    selected.classList.add("selected");
+
   };
   changeMe.editText = function() {
     var editUserInput = document.getElementById("user-input").value;
