@@ -15,7 +15,7 @@ Below you will find the specific requirements from NSS. These were specified gui
 
 You operate a used car lot, and need to have an application where you can update the description and availability of each car in your inventory. You are going to using the Bootstrap grid to lay out your HTML structure.
 
- - Behavior
+ ## Behavior
 
 Create an array of cars in the inventory.json file (see example structure below). Put at least three cars in the array.
 
@@ -37,7 +37,7 @@ Also, on click of the car element, clear the value of the text input in the navb
 
 When you start typing into the navbar's text input, the description, and only that property, of the currently selected car should be bound to what you are typing in and match it exactly.
 
-#Technical Requirements
+- Technical Requirements
 
 Create one global variable (e.g. CarLot) and use the IIFE pattern to augment it two times in separate JavaScript files.
 
