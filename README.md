@@ -4,9 +4,12 @@
 - Create a "Car Lot" by using a combination of vanilla javascript, XHR, and Bootstrap. The following functionality should occur to the user:
 
 ```
-1) When you click on any one of the car posters, the width and background color of the border will change.
+1) When you click on any one of the car posters, the width and 
+   background color of the border will change.
 
-2) Once the user has clicked and the poster is highlighted; The user can then begin typing in to the input box to change the text within the poster they have selected.
+2) Once the user has clicked and the poster is highlighted; 
+   The user can then begin typing in to the input box to change 
+   the text within the poster they have selected.
 ```
 Below you will find the specific requirements from NSS. These were specified guidelines to provide optimal functionality:
 
