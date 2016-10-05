@@ -13,7 +13,7 @@
 ```
 Below you will find the specific requirements from NSS. These were specified guidelines to provide optimal functionality:
 
-```
+
 ## Instructions
 
 ```
@@ -22,8 +22,9 @@ Below you will find the specific requirements from NSS. These were specified gui
    You are going to using the Bootstrap grid to lay out your HTML structure.
 ```  
 
- -- Behavior
+## Behavior
 
+```
    Create an array of cars in the inventory.json file (see example structure below). 
    Put at least three cars in the array.
 
@@ -53,9 +54,11 @@ Below you will find the specific requirements from NSS. These were specified gui
    When you start typing into the navbar's text input, the description, 
    and only that property, of the currently selected car should be bound to
    what you are typing in and match it exactly.
+ ```  
 
--- Technical Requirements
+## Technical Requirements
 
+```
    Create one global variable (e.g. CarLot) and use the IIFE pattern to augment 
    it two times in separate JavaScript files.
 
