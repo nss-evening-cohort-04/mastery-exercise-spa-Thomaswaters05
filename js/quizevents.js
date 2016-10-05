@@ -1,5 +1,7 @@
 //EVENTS - RETURN EVENTZ - Notes:
 
+//CLEAR BUTTON WORKING
+
 
 var CarLot = (function(eventz) {
     eventz.buildEventz = function() {
