@@ -54,8 +54,8 @@ Below you will find the specific requirements from NSS. These were specified gui
 
 -- Technical Requirements
 
-      Create one global variable (e.g. CarLot) and use the IIFE pattern to augment 
-it two times in separate JavaScript files.
+   Create one global variable (e.g. CarLot) and use the IIFE pattern to augment 
+   it two times in separate JavaScript files.
 
    The first IIFE should add a public function (e.g. loadInventory) that loads the 
    inventory.json file and stores the inventory in a private variable. It should also expose a 
