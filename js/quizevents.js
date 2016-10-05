@@ -17,6 +17,7 @@ var CarLot = (function(eventz) {
         userInputText.addEventListener("keydown", function() {
             CarLot.editText();
             // console.log(userInputText);
+            //console.log(checkingDueToGitIgnore)
         });
     };
     return eventz;
