@@ -1,0 +1,35 @@
+body {
+  background: white;
+}
+
+img.wrapIt{
+  border: solid;
+  border-radius: 1em;
+  margin: 25px;
+}
+
+
+.cars {
+  border: 3px solid black;
+  margin: .5em;
+  padding: 4px;
+  display: inline-block;
+  width: 350px;
+  background: #3CB371;
+
+}
+
+p {
+  font-family: times;
+  font-variant: small-caps;
+}
+
+.selected {
+  border: 6px solid blue;
+  background-color: lightgray !important;
+}
+
+button {
+  margin-left: 5px;
+}
+
