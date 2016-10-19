@@ -2,7 +2,6 @@
 
 //CLEAR BUTTON WORKING
 
-
 var CarLot = (function(eventz) {
     eventz.buildEventz = function() {
         var carSquare = document.getElementsByClassName("cars");
@@ -10,10 +9,10 @@ var CarLot = (function(eventz) {
             carSquare[i].addEventListener("click", function(choice) {
                 var selected = choice.currentTarget;
                 eventz.borderIt(selected);
-
-
+                eventz.autoFocus();
                 // console.log(CarLot); --> Good Ref Point to Jump Off For For Future
             });
+
         };
         var userInputText = document.getElementById("user-input");
         userInputText.addEventListener("keydown", function() {

@@ -18,6 +18,12 @@ var CarLot = (function(changeMe) {
         changeMe.noBorder();
         selected.classList.add("selected");
         // console.log(changeMe);
+        }
+    changeMe.autoFocus = function () {
+        document.getElementById("user-input").focus();
+        document.getElementById("user-input").value = "";
+        //when you click on the car card- it will highlight. This function will make the
+        // logic for the focus to auto sight the input field to make it easier for users to type
     };
     changeMe.noBorder = function() {
         var poster = document.getElementsByClassName("cars");
